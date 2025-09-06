@@ -31,7 +31,6 @@ Final‑year Computer Engineering @ TIET (Thapar), graduating in 2026 — I buil
 ---
 
 ### 📌 Featured Projects
-> Click through to repos once you replace links.
 
 1. **Smart Surveillance — Lensless Imaging + Crowd Analysis**  
    *Python · MATLAB · FZA · TwIST · Compressed Sensing · YOLOv4 + DeepSORT · CNN‑LSTM*  
