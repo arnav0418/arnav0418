@@ -1,181 +1,74 @@
-# Hey, I’m Arnav Gupta 👋
-Final-year Computer Engineering student @ **Thapar Institute of Engineering & Technology (TIET)**, graduating in **2026**.  
-I build across **backend systems, ML pipelines, computer vision, and full-stack applications.**
+# Arnav Gupta
+
+Final-year Computer Engineering student at **Thapar Institute of Engineering & Technology (TIET)**, graduating in **2026**.  
+Interested in **backend systems, distributed services, and applied machine learning**.
 
 ---
 
-# 🚀 About Me
+## 💼 Experience
 
-🎓 **B.E. Computer Engineering — TIET (Patiala)**  
-Class of **2026**
-
-💼 **Software Engineering Experience**
-
-**Software Developer Intern — Thriwe (2026 – Present)**  
-- Working on **Go-based microservices** powering global **loyalty and benefits platforms for international banks**  
-- Developing and debugging **REST APIs in Golang**
-- Working with **distributed service architecture** including:
-  - API Gateway
-  - Service discovery
-  - internal services
-- Integrating **PostgreSQL, MongoDB, Redis and Kafka**
-- Implementing **pagination, filtering, request validation, and middleware**
+**Software Developer Intern — Thriwe (2026–Present)**  
+- Working on **Go-based microservices** for global loyalty and benefits platforms  
+- Building and debugging **REST APIs**  
+- Working with **PostgreSQL, MongoDB, Redis**  
+- Implementing **pagination, request validation, and service integrations**
 
 **Software Engineer Intern — BRIH IT Pvt. Ltd. (Jan–Jul 2024)**  
-- Built backend modules using **Node.js and MySQL**
-- Designed **database schemas, procedures, triggers and optimized queries**
-- Worked heavily on **database design and backend APIs**
+- Backend development using **Node.js and MySQL**  
+- Designed **database schemas, procedures, and triggers**  
+- Built and maintained **REST APIs**
 
 ---
 
-# 🔭 Current Focus
+## 🛠 Tech Stack
 
-- **DSA:** Striver A2Z roadmap (Arrays → DP → Graphs)
-- **Backend Engineering:** production APIs, microservices, service architecture
-- **Database Systems:** normalization, query optimization, schema design
-- **Applied ML:** audio + vision pipelines
-- **System design fundamentals**
+**Languages**  
+Python · C/C++ · Go · JavaScript/TypeScript · SQL  
 
----
+**Backend**  
+Go · Django REST · Flask · Node.js/Express  
 
-# 🛠️ Tech Stack
+**Frontend**  
+React · Angular · HTML · CSS  
 
-### Languages
-Python • C/C++ • Go • JavaScript / TypeScript • SQL
+**ML / Data**  
+PyTorch · scikit-learn · Transformers · WavLM  
 
-### Backend
-Go (microservices) • Django REST • Flask • Node.js / Express
+**Databases**  
+MySQL · PostgreSQL · MongoDB · Redis  
 
-### Frontend
-React • Angular • HTML / CSS
-
-### Data & ML
-PyTorch • scikit-learn • WavLM • Transformers • Jupyter / Colab
-
-### Databases
-MySQL • PostgreSQL • MongoDB • Redis
-
-### Tools
-Git • Docker (basics) • VS Code • Linux • Postman
+**Tools**  
+Git · Docker · VS Code · Linux  
 
 ---
 
-# 📌 Featured Projects
+## 📌 Projects
 
-## Smart Surveillance — Lensless Imaging + Crowd Analysis
-Python • MATLAB • FZA • TwIST • YOLOv4 • DeepSORT
+**Lensless Crowd Analysis**  
+Privacy-preserving surveillance using **lensless imaging (FZA)** with reconstruction and crowd analytics.  
+https://github.com/arnav0418/lensless_crowd_analysis  
 
-Privacy-preserving surveillance using **lensless cameras** with digital reconstruction.
+**Speaker Profiling from Audio**  
+Multi-task deep learning model predicting **age, height, and gender from speech**.  
+https://github.com/Hirdyansh9/sps_speakerProfiling  
 
-Pipeline:
-1. Capture encoded image using **Fresnel Zone Aperture**
-2. Reconstruct using **Back-Propagation + TwIST**
-3. Perform **crowd tracking and anomaly detection**
+**Resume ↔ JD Matcher**  
+Tool to compare resumes with job descriptions and identify skill overlap.  
+https://github.com/arnav0418/resume-jd-matcher  
 
-**Repo**  
-https://github.com/arnav0418/lensless_crowd_analysis
-
----
-
-## Speaker Profiling from Short Audio
-PyTorch • WavLM • Conformer • BiLSTM • Multi-Task Learning
-
-Predict **age, height and gender** from speech using multi-task deep learning.
-
-Architectures explored
-- BiLSTM + attentive pooling
-- Transformer encoder
-- WavLM + Conformer
-
-**Repo**  
-https://github.com/Hirdyansh9/sps_speakerProfiling
+**IoT Monitoring Dashboard**  
+Real-time sensor monitoring using **Flask, Socket.IO and ESP32**.  
+https://github.com/arnav0418/flask-iot-dashboard  
 
 ---
 
-## Resume ↔ JD Matcher
-Python • Streamlit • NLP
+## 📚 Research
 
-Tool that compares **resumes with job descriptions** and surfaces skill overlap.
-
-Features
-- Resume parsing (PDF / DOCX)
-- JD extraction
-- Skill matching
-
-**Repo**  
-https://github.com/arnav0418/resume-jd-matcher
+Working on a paper for **CVIP 2025** on **lensless cameras for surveillance and privacy-preserving crowd monitoring**.
 
 ---
 
-## IoT Monitoring Dashboard
-Flask • Socket.IO • ESP32
+## 📬 Contact
 
-Real-time IoT dashboard that visualizes sensor data and triggers device alerts.
-
-**Repo**  
-https://github.com/arnav0418/flask-iot-dashboard
-
----
-
-# 📚 Research
-
-**Paper in progress — CVIP 2025**
-
-*Lensless Cameras for Surveillance vs Traditional Cameras*
-
-Focus areas:
-- Fresnel Zone Aperture simulation
-- Reconstruction algorithms
-- Privacy-preserving surveillance
-- Crowd analytics pipeline
-
----
-
-# 🧠 Currently Learning
-
-- Advanced **DSA patterns**
-- **System design for backend engineers**
-- **Distributed systems basics**
-- Better **ML evaluation and reproducibility**
-
----
-
-# 🎯 Career Goals
-
-Looking for opportunities where I can work on:
-
-- Backend platforms
-- Distributed systems
-- Applied ML / computer vision
-- Developer infrastructure
-
-Targeting:
-
-- **SDE internships**
-- **New-grad Software Engineer roles**
-
----
-
-# 🤝 Open to Collaborate On
-
-- Open source backend tools
-- Applied ML projects
-- API frameworks and developer tooling
-
----
-
-# 📬 Contact
-
-Email  
-**arnavg0418@gmail.com**
-
-LinkedIn  
-https://www.linkedin.com/in/arnavg0418
-
----
-
-💡 **Philosophy**
-
-Start simple → measure → iterate  
-Readable code > clever code  
-Automate repetitive work
+Email: **arnavg0418@gmail.com**  
+LinkedIn: https://www.linkedin.com/in/arnavg0418
